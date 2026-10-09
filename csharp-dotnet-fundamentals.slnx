@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Fundamentos/">
+    <Project Path="02-Constantes/02-Constantes.csproj" Id="d00ca8e3-a0ca-4a8d-9757-e97dcb621b7f" />
+    <Project Path="Variaveis-e-tipos/01-Variaveis-e-tipos.csproj" />
+  </Folder>
+  <Folder Name="/Fundamentos/03-Operadores/">
+    <Project Path="02-Comparacao/02-Comparacao.csproj" Id="210eaf53-a1f2-4d88-ba86-d4f56e951eb8" />
+    <Project Path="03-Logicos/03-Logicos.csproj" Id="e57aba12-4ce3-497f-b650-c7761c66877c" />
+    <Project Path="03-Operadores/01-Aritmeticos/01-Aritmeticos.csproj" Id="071bb68a-7cfd-44cb-87b5-d496a89cf2ad" />
+  </Folder>
+  <Folder Name="/Fundamentos/04-Condicionais/">
+    <Project Path="01-IfElse/01-IfElse.csproj" Id="86d7d686-d3de-45e9-91d3-29fdbd191a76" />
+    <Project Path="02-Switch/02-Switch.csproj" Id="09110de9-c76c-4681-ae48-0e45b868a3c0" />
+  </Folder>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+</Solution>
