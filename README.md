@@ -16,8 +16,8 @@ Aprender C# e .NET de forma prática, repetitiva e progressiva, construindo base
 - [x] Operadores Lógicos
 - [x] Estruturas de Decisão (`if/else`)
 - [x] `switch`
-- [ ] Loops
-- [ ] Métodos
+- [x] Loops
+- [x] Métodos
 - [ ] Orientação a Objetos
 - [ ] Collections e Generics
 - [ ] LINQ
