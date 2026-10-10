@@ -2,6 +2,7 @@
   <Folder Name="/Fundamentos/">
     <Project Path="01-Variaveis-e-tipos/01-Variaveis-e-tipos.csproj" />
     <Project Path="02-Constantes/02-Constantes.csproj" Id="d00ca8e3-a0ca-4a8d-9757-e97dcb621b7f" />
+    <Project Path="06-Metodos/06-Metodos.csproj" />
   </Folder>
   <Folder Name="/Fundamentos/03-Operadores/">
     <Project Path="03-Operadores/01-Aritmeticos/01-Aritmeticos.csproj" />
@@ -12,7 +13,14 @@
     <Project Path="04-Condicionais/01-IfElse/01-IfElse.csproj" />
     <Project Path="04-Condicionais/02-Switch/02-Switch.csproj" />
   </Folder>
+  <Folder Name="/Fundamentos/05-Loops/">
+    <Project Path="05-Loops/01-For/01-For.csproj" />
+    <Project Path="05-Loops/02-While/02-While.csproj" />
+  </Folder>
   <Folder Name="/Itens de Solução/">
     <File Path="README.md" />
+  </Folder>
+  <Folder Name="/OOP/">
+    <Project Path="OOP/01-Class/01-Class.csproj" />
   </Folder>
 </Solution>
