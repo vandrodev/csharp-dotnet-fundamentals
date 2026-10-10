@@ -22,5 +22,6 @@
   </Folder>
   <Folder Name="/OOP/">
     <Project Path="OOP/01-Class/01-Class.csproj" />
+    <Project Path="OOP/02-Construtores/02-Construtores.csproj" />
   </Folder>
 </Solution>
